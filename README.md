@@ -1,6 +1,6 @@
 ## LLM4BeSciUnibas
 
-This repository contains the training materials for the course ["LLMs for Behavioral Science"](https://cdsbasel.github.io/LLM4BeSci_2025Unibas/),
+This repository contains the training materials for the course ["Open-Source Large Language Models for Behavioral Science"](https://cdsbasel.github.io/LLM4BeSci_2025Unibas/),
 which will be hosted at the University of Basel from February 10th - 12th, 2025. Please see the [course website](https://cdsbasel.github.io/LLM4BeSci_2025Unibas/) for more information.
 
 ### Resources
